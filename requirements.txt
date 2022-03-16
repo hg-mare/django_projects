@@ -3,5 +3,5 @@ whitenoise
 gunicorn
 dj-database-url
 python-dotenv
-psycopg-binary
+psycopg-binary==2.7.5
 mysqlclient
